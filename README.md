@@ -8,12 +8,20 @@ This repository contains the audited legal research and Phase 0 controls for **D
 
 ## Read first
 
-- [`memorandum/DGG_WASHINGTON_SWORN_STATEMENT_MEMORANDUM.md`](memorandum/DGG_WASHINGTON_SWORN_STATEMENT_MEMORANDUM.md) — canonical audited memorandum, executive decision brief, adversarial analysis, and recommendation.
-- [`research/report-source.md`](research/report-source.md) — primary-source ledger, adverse authority, effective-date controls, and unresolved questions.
-- [`research/GAP_MATRIX.md`](research/GAP_MATRIX.md) — consequential-claim audit with support level, contradiction, and next verification action.
-- [`operations/DGG_PILOT_CONTROL_PACKET.md`](operations/DGG_PILOT_CONTROL_PACKET.md) — Phase 0 dry-run controls; not a live notarial form or participant release.
-- [`audit/PROJECT_CONTROL.md`](audit/PROJECT_CONTROL.md) — mission, red lines, research-lane closeout, and publication gates.
-- [`audit/ARCHIVE_CHECKSUMS.md`](audit/ARCHIVE_CHECKSUMS.md) — checksums for the supplied inputs.
+- [`memorandum/DGG_WASHINGTON_SWORN_STATEMENT_MEMORANDUM.md`](memorandum/DGG_WASHINGTON_SWORN_STATEMENT_MEMORANDUM.md) - canonical audited memorandum, executive decision brief, adversarial analysis, and recommendation.
+- [`research/report-source.md`](research/report-source.md) - primary-source ledger, adverse authority, effective-date controls, and unresolved questions.
+- [`research/GAP_MATRIX.md`](research/GAP_MATRIX.md) - consequential-claim audit with support level, contradiction, and next verification action.
+- [`operations/DGG_PILOT_CONTROL_PACKET.md`](operations/DGG_PILOT_CONTROL_PACKET.md) - Phase 0 dry-run controls; not a live notarial form or participant release.
+- [`audit/PROJECT_CONTROL.md`](audit/PROJECT_CONTROL.md) - mission, red lines, research-lane closeout, and publication gates.
+- [`audit/ARCHIVE_CHECKSUMS.md`](audit/ARCHIVE_CHECKSUMS.md) - checksums for the supplied inputs.
+
+## Supplemental reader routes
+
+- [`memorandum/PROJECT_ORIGIN_AND_DESIGN_RATIONALE_SUPPLEMENT.md`](memorandum/PROJECT_ORIGIN_AND_DESIGN_RATIONALE_SUPPLEMENT.md) - how the idea evolved from a compulsory/perjury intuition into a voluntary fixed-record and correction architecture.
+- [`research/BEHAVIORAL_EVIDENCE_AND_EVALUATION_PLAN.md`](research/BEHAVIORAL_EVIDENCE_AND_EVALUATION_PLAN.md) - meta-analytic evidence, causal model, pilot stages, safety outcomes, sample-size orientation, and falsification criteria.
+- [`outreach/DGG_FIRST_READER_BRIEF.md`](outreach/DGG_FIRST_READER_BRIEF.md) - concise first-contact explanation for a political media or action group.
+- [`research/ZOTERO_OBSIDIAN_INTEGRATION.md`](research/ZOTERO_OBSIDIAN_INTEGRATION.md) and [`research/authorities.bib`](research/authorities.bib) - source-management workflow for Zotero, Better BibTeX, and Obsidian.
+- [`audit/CONTINUATION_GUIDE.md`](audit/CONTINUATION_GUIDE.md) - canonical-file hierarchy, critical facts, unresolved work, and safe update sequence for future contributors.
 
 ## Audited conclusion
 
@@ -21,11 +29,11 @@ Washington provides enough notarial infrastructure for DGG to test a fixed, volu
 
 Potential Washington **false swearing** is the strongest criminal-law reference point. First-degree **perjury** remains colorable but unresolved for a private media session because no located appellate decision holds that the session becomes an official proceeding merely because a notary participates. Territorial jurisdiction, proof, charging, limitations, and interstate process remain independent gates.
 
-The project must therefore be presented as a commitment, provenance, and audience-calibration system with a possible legal backstop—not a private perjury trap.
+The project must therefore be presented as a commitment, provenance, and audience-calibration system with a possible legal backstop, not a private perjury trap.
 
 ## Nonnegotiable public-claim rules
 
-- A notary verifies the notarial act, required identity, signature, and oath or affirmation—not factual truth.
+- A notary verifies the notarial act, required identity, signature, and oath or affirmation, not factual truth.
 - A false answer is not automatically perjury.
 - Declining or not responding does not imply dishonesty.
 - A Washington remote notary does not automatically create Washington criminal jurisdiction over a nonresident.
@@ -35,11 +43,12 @@ The project must therefore be presented as a commitment, provenance, and audienc
 
 ## Repository map
 
-- `archive/input-drafts/` — supplied drafts preserved as received; not audited conclusions.
-- `memorandum/` — canonical legal and strategic memorandum.
-- `research/` — source ledger and consequential-claim tracker.
-- `operations/` — blank Phase 0 controls and, later, only approved redacted or synthetic materials.
-- `audit/` — project controls and reproducibility records.
+- `archive/input-drafts/` - supplied drafts preserved as received; not audited conclusions.
+- `memorandum/` - canonical legal and strategic memorandum plus clearly labeled design supplement.
+- `research/` - source ledger, consequential-claim tracker, empirical evaluation, and Zotero-compatible authorities.
+- `operations/` - blank Phase 0 controls and, later, only approved redacted or synthetic materials.
+- `outreach/` - first-reader briefing materials; not legal conclusions.
+- `audit/` - project controls, reproducibility records, and continuation guidance.
 
 ## Public-repository warning
 
