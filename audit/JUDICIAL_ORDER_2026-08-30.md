@@ -4,11 +4,15 @@
 **Status:** **REMANDED — CHANGES REQUIRED — NOT LAUNCH-CLEARED**  
 **Reviewed heads:** `main@3905b470`, PR #1 `@9b695f3e`, PR #2 `@96c53884`, PR #3 `@08283fc1`
 
+This order is final as a judicial research docket at those heads. It implements no packet correction and is noncanonical unless accepted through repository review.
+
 ## Order
 
 Candidate v1.1 has a defensible core: a voluntary, in-person, Washington-only, tangible Canonical Sworn Record (CSR), with the ordinary interview and Public Media Record remaining unsworn. It cures the most serious earlier error—treating a whole oral “sworn block” as the oath object. The later counsel-review packet and independent paralegal audit are admitted as supplemental research and substantially improve the government-nexus, questioning, interstate, defamation, campaign-threshold, and power-calculation record.
 
 PRs #1 and #2 may not be treated as merge-ready or operational. PR #3 remains a supplemental stacked research draft and cannot cure their text by implication. The project remains in Phase 0 synthetic/tabletop testing. No named participant, publication, livestream, remote act, public refusal label, or criminal-enforcement claim is authorized.
+
+The packet-builder has acknowledged the principal cure conditions and requested an additive correction/supersession commit. No such implementation head has yet been reviewed; acknowledgment does not dissolve the remand.
 
 ## Findings sustained
 
@@ -40,6 +44,7 @@ PRs #1 and #2 may not be treated as merge-ready or operational. PR #3 remains a 
 15. Written personality-rights consent is prudent project policy, not a categorical statement of Washington law; forged/synthetic likeness and material alteration require separate review.
 16. The counsel packet’s observed-90%/lower-bound-85% comprehension rule is insufficient. If 90% is the gate, the one-sided 95% lower bound must be at least 90%.
 17. Do not categorically reassure or threaten participants about witness-tampering/intimidation law; any benefit, threat, retaliation, referral bargain, or testimony-influence concern is a stop/counsel event.
+18. Current Washington law has a safeguarded record-based RON route. The project’s present in-person-paper restriction is a risk-control choice, not a holding that remote notarization is generally unavailable in 2026; no DGG remote act is authorized by this order.
 
 ## Mandatory corrections before merge
 
