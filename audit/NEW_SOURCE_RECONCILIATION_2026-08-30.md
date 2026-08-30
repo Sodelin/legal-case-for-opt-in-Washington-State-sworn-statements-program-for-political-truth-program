@@ -120,6 +120,8 @@ The official sources were read for current statutory text and effective-date dis
 
 The Washington project already has concurrent work on draft PR #1, branch `research/conversation-synthesis-and-evaluation-v1`, head `9b695f3e45e13d60767db71ed91cf4cc668c9d09`. Candidate v1.1 is intentionally stacked from that exact head so it includes, but does not overwrite, the origin, Zotero, behavioral, outreach, and continuation work.
 
+**Landing record:** branch `legal/participant-protocol-and-memo-v1.1`; initial candidate commit `4f4a8a9324466d3bb42e0153574fd833344993c7`; tree `e48ad33d94dd486d7533e1a992b544c32e1d312e`; draft pull request [#2](https://github.com/Sodelin/legal-case-for-opt-in-Washington-State-sworn-statements-program-for-political-truth-program/pull/2), targeting the draft-PR-#1 branch.
+
 This change adds only:
 
 - `archive/input-drafts/2026-08-30/DGG_Washington_Participant_Sworn_Statement_Protocol_2026-08-30.docx`
@@ -129,6 +131,8 @@ This change adds only:
 - `audit/NEW_SOURCE_RECONCILIATION_2026-08-30.md`
 
 It deliberately does not edit `README.md`, PR #1's files, the current canonical memorandum, the current Phase 0 packet, or the separate general memorandum-framework repository. Candidate v1.1 may become canonical only through a later, explicit review/merge decision.
+
+GitHub readback confirmed a clean, mergeable stacked PR with exactly five added paths and no deletions. Each remote Git blob SHA matched `git hash-object` for the corresponding local source, and the remote binary sizes matched 97,209 and 67,140 bytes. The branch, commit parent, tree, and PR base/head were read back after the write.
 
 ## 9. Audit responsibility and bounded agent use
 
@@ -145,6 +149,5 @@ Five read-only lanes were used: live GitHub state, source-memo delta, operator d
 7. Participant notice, layered consent, release, withdrawal cutoff, and AI-use terms.
 8. Separate audience and speaker-study preregistration with powered numeric safety gates.
 9. Recheck of remote law, DOL rules, approved providers, and signer-location matrix after January 1, 2027 before any remote branch.
-10. GitHub readback of every added blob, tree, commit, and pull-request diff.
 
 Until those gates close, the correct disposition is **continue Phase 0; do not launch a named public pilot**.
