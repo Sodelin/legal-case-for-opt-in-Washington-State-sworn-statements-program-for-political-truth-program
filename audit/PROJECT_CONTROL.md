@@ -42,15 +42,25 @@ Use a signed written or electronic statement personally presented to an authoriz
 3. Treatises or law-review analysis for unresolved interpretation.
 4. Commercial case mirrors only when an official opinion is unavailable; verify reporter citation and holding independently.
 
-## Agent control
+## Agent control and closeout
 
-Three bounded research lanes are authorized:
+Three bounded research lanes were authorized and completed:
 
-- Washington criminal law, territorial jurisdiction, and case law.
-- Washington notary operations, remote procedure, recording, and privacy.
-- Federal constitutional/media risk and Pennsylvania comparison.
+- **Washington criminal law, territorial jurisdiction, and case law — complete.** Result: false swearing is the strongest legally possible theory; first-degree perjury and remote jurisdiction remain colorable/unresolved; ordinary second-degree perjury and enforcement predictions are unsupported.
+- **Washington notary operations, remote procedure, recording, and privacy — complete.** Result: use a fixed signed electronic verification for remote work during 2026; recheck the express standalone remote-oath branch after 2027-01-01; keep the notarial archive and journal outside DGG's production/public repository.
+- **Federal constitutional/media risk and Pennsylvania comparison — complete.** Result: preserve private voluntary status and neutral labels; review broadcast/campaign triggers; treat Pennsylvania as a notarial-mechanics analogue rather than a parallel criminal-deterrence jurisdiction.
 
 Agents may not spawn additional agents, write the final memorandum, edit files, or push to GitHub. The audit director owns synthesis, consequential-claim verification, and repository writes. A lane stops when every assigned claim has primary support or an explicit unresolved-gap finding.
+
+No further research agent is authorized unless a counsel gate produces a new, specifically bounded question.
+
+## Canonical deliverables
+
+- `memorandum/DGG_WASHINGTON_SWORN_STATEMENT_MEMORANDUM.md` — audited research memorandum and decision brief.
+- `research/report-source.md` — source ledger, adverse authority, and unresolved questions.
+- `research/GAP_MATRIX.md` — consequential-claim status and next verification action.
+- `operations/DGG_PILOT_CONTROL_PACKET.md` — Phase 0 dry-run controls; not a live form or release.
+- `archive/input-drafts/` — immutable supplied inputs; not audited conclusions.
 
 ## Publication gates
 
@@ -63,4 +73,3 @@ A document may be labeled **audited** only after:
 - Washington counsel reviews the live form and public-facing criminal-law language;
 - Pennsylvania counsel reviews any Pennsylvania implementation; and
 - the pushed GitHub state is read back and compared with the intended files.
-
