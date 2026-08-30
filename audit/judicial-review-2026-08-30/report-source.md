@@ -5,6 +5,8 @@
 **Status:** Final research docket; not legal advice; not a launch authorization  
 **Controlling disposition:** **REMANDED — NOT LAUNCH-CLEARED**
 
+**Procedural posture:** Final as a judicial research docket at the reviewed heads. This docket implements no ordered packet correction and is noncanonical unless accepted through repository review.
+
 ## 0. Disposition
 
 The project has a legally plausible core: a willing participant may sign a defined factual record and take an oath or affirmation before a properly authorized Washington notary. That proposition does **not** establish that a false statement will be prosecutable, that the private act is first-degree perjury, that Washington has jurisdiction over every signer, or that the notary has certified factual truth.
@@ -166,7 +168,7 @@ The participant notice must disclose that the journal contains required identify
 - Under [WAC 308-30-220](https://app.leg.wa.gov/WAC/default.aspx?cite=308-30-220), $15 is a maximum for the verification, not a fixed or mandatory fee. Actual copying costs may be added. Travel charges must be agreed in advance and disclosed as separate and not legally required; they need not be described as actual cost.
 - Add a [WAC 308-30-230](https://app.leg.wa.gov/WAC/default.aspx?cite=308-30-230) promotion control: do not use the seal or notarial title to endorse DGG, an interview, testimonial, thumbnail, contest, or product.
 - Keep signed pre-consent as project policy, but correct the legal rationale. [RCW 9.73.030(3)](https://app.leg.wa.gov/RCW/default.aspx?cite=9.73.030) expressly recognizes a recorded announcement. State that DGG elects not to rely on that method alone.
-- Wet-ink, tangible, in-person operation is the conservative Phase 1 path. Cite enacted [2026 Wash. Laws ch. 21](https://lawfilesext.leg.wa.gov/biennium/2025-26/Htm/Bills/Session%20Laws/House/2158-S.SL.htm), not only a bill report, for the January 1, 2027 remote change. Any later remote/electronic branch requires a fresh statutory, rule, provider, technology, and privacy review.
+- Wet-ink, tangible, in-person operation is the conservative Phase 1 path. This is a project risk-control hierarchy, not a claim that remote notarization is generally unavailable in 2026. Current [RCW 42.45.280](https://app.leg.wa.gov/RCW/default.aspx?cite=42.45.280) already authorizes safeguarded record-based remote notarization when its conditions are met. Cite enacted [2026 Wash. Laws ch. 21](https://lawfilesext.leg.wa.gov/biennium/2025-26/Htm/Bills/Session%20Laws/House/2158-S.SL.htm), not only a bill report, for the January 1, 2027 expansion. Any later DGG remote/electronic branch requires a fresh statutory, rule, provider, technology, and privacy review.
 
 ### 5.5 Record integrity
 
@@ -271,6 +273,8 @@ The main canonical `operations/DGG_PILOT_CONTROL_PACKET.md` also remains operati
 PR #2’s later counsel-review packet is **admitted and substantially sustained for counsel review/Phase 0 only**. Its conspicuous nonuse banner, complete-standalone-statement rule, government-separation matrix, state-action caveats, professional question worksheet, and written-gate structure improve the project. They do not cure the base memorandum/protocol automatically. Its remaining defects include the incorporation pathway, the 90%-point-estimate/85%-lower-bound comprehension gate, the zero-incident inference, and any source copy that repeats an adjusted campaign amount as though the printed statute were current.
 
 PR #3’s independent authority audit and cross-project handoff are **admitted as supplemental research**. The court sustains its corrected WAC threshold, *Mohr/Yeakey* distinction, exact orientation sample totals, personality-rights nuance, witness-law caution, public-repository boundary, and update-packet protocol. Its separately gated 2026 fixed-record RON discussion does not alter this order’s current in-person-paper restriction. Because PR #3 is stacked on PR #2, its findings must be implemented by traceable edits; they do not silently rewrite the candidate or canonical files.
+
+The packet-builder subsequently accepted the eight principal judicial cure conditions as implementation requirements and requested an additive correction/supersession commit mapping each cure to exact files and sections. That acknowledgment is **received**, but acceptance is not implementation: PR #2’s head did not change, the conflicting text remains, and the remand continues until the promised commit is pushed and independently read back.
 
 ### 8.3 Archive and hierarchy
 
