@@ -9,13 +9,14 @@
 
 The project has a legally plausible core: a willing participant may sign a defined factual record and take an oath or affirmation before a properly authorized Washington notary. That proposition does **not** establish that a false statement will be prosecutable, that the private act is first-degree perjury, that Washington has jurisdiction over every signer, or that the notary has certified factual truth.
 
-Candidate v1.1 materially improves the design by making the tangible Canonical Sworn Record (CSR) the only sworn object and by quarantining remote, public-figure, livestream, and public-refusal features. It is nevertheless remanded. The live branches and canonical packet contain contradictory operating instructions, several notary-role and campaign-law defects remain, two criminal-law citations require correction, and the behavioral gates do not yet support the claimed safety decisions.
+Candidate v1.1 materially improves the design by making the tangible Canonical Sworn Record (CSR) the only sworn object and by quarantining remote, public-figure, livestream, and public-refusal features. A later counsel-review packet and independent paralegal audit improve the government-nexus, questioning, interstate, defamation, campaign-threshold, and power-calculation record. The project is nevertheless remanded. The live branches and canonical packet contain contradictory operating instructions, several notary-role and campaign-law defects remain, two criminal-law citations require correction, and the behavioral gates do not yet support the claimed safety decisions.
 
 | Record | Disposition | Effect |
 |---|---|---|
 | `main` at `3905b470c2ab239cf2aae563e1d7b3a1adb73dd3` | **Remanded** | Existing control packet remains research/dry-run material only; no live or named-participant use. |
 | Draft PR #1 at `9b695f3e45e13d60767db71ed91cf4cc668c9d09` | **Changes requested** | Do not merge until its remote-first instructions, evidence summary, statistical gates, bibliography, and source metadata are corrected. |
-| Draft PR #2 at `795d97a1a505d7bdd1d2a04596d484fdd687f963` | **Changes requested** | Preserve as a nonoperative candidate, but do not canonicalize until the mandatory directives below are satisfied and the stack is rebased or retargeted coherently. |
+| Draft PR #2 at `96c5388421ed6e221c8520878458feba96e14aac` | **Changes requested** | Preserve the v1.1 and counsel-review packets as nonoperative candidates, but do not canonicalize until the mandatory directives below are satisfied and the stack is rebased or retargeted coherently. |
+| Draft PR #3 at `08283fc190f23d69406b5f9cc810fbbc00d8b068` | **Substantially sustained; comment/coordination required** | Admit the independent authority audit and handoff as supplemental research. Its new corrections do not silently amend PR #2 or the canonical packet and must be implemented through tracked changes. |
 | Supplied DOCX/Markdown packets | **Admitted as source material** | Preserve byte-for-byte in archive; they do not independently control operations. |
 
 No finding in this review is a prediction that a prosecutor, court, election regulator, tax authority, or notary will accept the project’s legal theory.
@@ -31,7 +32,8 @@ Whether the present materials support a defensible Washington pilot in which a w
 - Repository: `Sodelin/legal-case-for-opt-in-Washington-State-sworn-statements-program-for-political-truth-program`
 - Canonical branch reviewed at `3905b470c2ab239cf2aae563e1d7b3a1adb73dd3`.
 - PR #1, `research/conversation-synthesis-and-evaluation-v1`, reviewed at `9b695f3e45e13d60767db71ed91cf4cc668c9d09`.
-- PR #2, `legal/participant-protocol-and-memo-v1.1`, reviewed at `795d97a1a505d7bdd1d2a04596d484fdd687f963`. PR #2 is stacked on PR #1.
+- PR #2, `legal/participant-protocol-and-memo-v1.1`, initially reviewed at `795d97a1a505d7bdd1d2a04596d484fdd687f963` and re-reviewed at `96c5388421ed6e221c8520878458feba96e14aac` after the counsel-review packet landed. PR #2 is stacked on PR #1.
+- PR #3, `audit/paralegal-independent-reaudit-2026-08-30`, reviewed at `08283fc190f23d69406b5f9cc810fbbc00d8b068`. PR #3 is stacked on PR #2 at `96c5388421ed6e221c8520878458feba96e14aac`.
 - Open-PR state, changed paths, comments, reviews, and head commits were rechecked immediately before publication of this docket.
 
 ### 2.2 Supplied-file record
@@ -82,6 +84,7 @@ Rulings use four labels:
 | Private voluntariness is a constitutional safe harbor. | **Rejected; it is risk-reducing, not dispositive.** |
 | A private DGG invitation is constitutionally required to be viewpoint-neutral. | **Rejected as a First Amendment duty; may be retained as an internal editorial, study, tax, and risk-control rule.** |
 | FEC AO 2008-14 creates a blanket Internet-press exemption. | **Rejected; fact-bound analogy only.** |
+| The $100 amount printed in RCW 29B.25.120(2) is the current reporting threshold. | **Rejected; WAC 390-05-400 adjusts it to $1,000 effective 2026-01-01.** |
 | Existing oath studies establish that this format will make political speakers truthful. | **Rejected.** |
 | Observed 90% comprehension, nonsignificance, or zero incidents proves the safety gate passed. | **Rejected.** |
 | Phase 0 synthetic tests and a nonpublic, in-person, Washington-only wet-ink feasibility phase are the current conservative path. | **Sustained, after the control packet is reconciled.** |
@@ -132,6 +135,8 @@ The three-year felony and two-year gross-misdemeanor periods, with statutory tol
 
 **Extradition analysis remanded.** [RCW 10.88.250](https://app.leg.wa.gov/RCW/default.aspx?cite=10.88.250) authorizes Washington’s governor to surrender a person found in Washington to another state. It does not govern a Washington demand for a signer found elsewhere; the asylum state’s UCEA analogue and executive process control. Remove all enforcement forecasts such as “practically unlikely,” “more plausible outcomes,” or “fight likely.” List legal gates, not predictions.
 
+Collateral witness-tampering or intimidation law is also **unresolved on these novel facts**. Do not reassure participants that every such provision is categorically irrelevant, and do not threaten or market those laws. Any benefit, threat, retaliation, referral bargain, or effort to alter testimony-like information is a stop event requiring counsel review of the exact statute and facts.
+
 ## 5. Notarial and operational rulings
 
 ### 5.1 Sworn-object boundary
@@ -139,6 +144,8 @@ The three-year felony and two-year gross-misdemeanor periods, with statutory tol
 **Sustained with one mandatory correction.** The paper CSR may be the sole sworn object. The PMR, interview, transcript, captions, source packet, fact-checking commentary, and later media statements must remain expressly unsworn.
 
 The remaining “incorporated record” field leaks outside text into the sworn payload. Prohibit incorporation by reference. If outside text is deliberately adopted, reproduce or physically append it inside the CSR, page-number it, assign proposition IDs, and include it in the adoption clause. Otherwise it remains unsworn.
+
+The supplemental counsel packet’s questioning rule is **sustained**: the interviewer’s question is unsworn, while the participant must author or expressly adopt a complete standalone statement, basis, and visible qualification. A bare yes/no that silently imports a disputed DGG premise is prohibited. A decline makes no sworn assertion and must be omitted from the adopted-proposition index. Knowledge, recall, and inability-to-verify responses require deliberate scope treatment in the exact adoption clause.
 
 ### 5.2 Notary role and certificate
 
@@ -177,13 +184,15 @@ Private, optional editorial conduct ordinarily is not state action. A commission
 
 Political falsehood is not categorically outside First Amendment review. [*United States v. Alvarez*](https://tile.loc.gov/storage-services/service/ll/usrep/usrep567/usrep567709/usrep567709.pdf) does not immunize all knowing falsehoods, but it forecloses a casual assumption that falsity alone ends constitutional analysis.
 
+The supplemental counsel packet’s government-separation matrix is **sustained as conservative policy**. No public grant, contract, co-branding, official consequence, government-selected participant/question/source, data feed, standing referral, or agency publication control belongs in the present design. Any such fact requires a new memorandum. Federal state action and Washington public-records/functional-equivalency are different questions. Government use or retention of project records, official-device communications, public funding, delegated function, or government creation/involvement may create separate records, ethics, procurement, retention, or open-meetings consequences under the exact facts. See [*Nissen v. Pierce County*](https://www.courts.wa.gov/opinions/pdf/908753.pdf) and [*Horvath v. DBIA Services*](https://www.courts.wa.gov/opinions/pdf/1033397.pdf).
+
 ### 6.2 Nonparticipant labels and defamation
 
 The v1.1 nonpublication rule for identified invitee status in Phases 0–2 is sustained. If a later phase considers status publication, “invited; declined this format” is usable only when exactly documented; silence requires “no response as of [date].” Never publish “refused truth,” “failed the oath,” “would not risk perjury,” or a credibility badge.
 
-Audience testing and disclaimers are safety controls, not tort-law immunity. A literally accurate fragment can still create a provably false implication in context, and ignoring adverse test results may worsen fault evidence. Relevant authorities include [*Milkovich v. Lorain Journal*](https://tile.loc.gov/storage-services/service/ll/usrep/usrep497/usrep497001/usrep497001.pdf), [*Masson v. New Yorker Magazine*](https://tile.loc.gov/storage-services/service/ll/usrep/usrep501/usrep501496/usrep501496.pdf), [*New York Times v. Sullivan*](https://tile.loc.gov/storage-services/service/ll/usrep/usrep376/usrep376254/usrep376254.pdf), and *Mohr v. Grant*, 153 Wn.2d 812.
+Audience testing and disclaimers are safety controls, not tort-law immunity. Washington recognizes a false implication created by material omitted facts when the omissions contradict the publication’s false impression. It does not recognize defamation by implication based only on the negative implication of entirely true statements. See *Mohr v. Grant*, 153 Wn.2d 812, and *Yeakey v. Hearst Communications, Inc.*, 156 Wn. App. 787. A factual error, material omission, misleading edit, false-light theory, or another state’s law can still create exposure, and ignoring adverse test results may worsen fault evidence. Federal constraints include [*Milkovich v. Lorain Journal*](https://tile.loc.gov/storage-services/service/ll/usrep/usrep497/usrep497001/usrep497001.pdf), [*Masson v. New Yorker Magazine*](https://tile.loc.gov/storage-services/service/ll/usrep/usrep501/usrep501496/usrep501496.pdf), and [*New York Times v. Sullivan*](https://tile.loc.gov/storage-services/service/ll/usrep/usrep376/usrep376254/usrep376254.pdf).
 
-Personality-rights exemptions under [RCW 63.60.070](https://app.leg.wa.gov/RCW/default.aspx?cite=63.60.070) defeat categorical liability statements. They do not eliminate the need for a use-specific release covering production, excerpts, thumbnails, promotion, syndication, fundraising, and advertising.
+Personality-rights consent under [RCW 63.60.050](https://app.leg.wa.gov/RCW/default.aspx?cite=63.60.050) may be written or oral, express or implied, and [RCW 63.60.070](https://app.leg.wa.gov/RCW/default.aspx?cite=63.60.070) contains broad authentic political, newsworthy, public-interest, comment, criticism, and specified-media exemptions. Those rules defeat categorical “written consent is always legally required” language. DGG should still require a use-specific written release covering production, excerpts, thumbnails, promotion, syndication, fundraising, reuse, corrections, and advertising. Forged or synthetic likeness, material voice/image alteration, or endorsement-like promotion requires a separate current-law review.
 
 ### 6.3 Federal campaign and broadcast decision tree
 
@@ -201,7 +210,7 @@ Before any candidate-specific publication or promotion, the memorandum must appl
 
 - [RCW 29B.10.160](https://app.leg.wa.gov/RCW/default.aspx?cite=29B.10.160) creates fact gates for contributions, coordination, republication, fair-market value, and a conditional regular-news-medium exclusion.
 - [RCW 29B.10.220(2)(c)](https://app.leg.wa.gov/RCW/default.aspx?cite=29B.10.220) is a qualifying news-item exclusion from the definition of electioneering communication—not a universal media safe harbor.
-- [RCW 29B.25.120](https://app.leg.wa.gov/RCW/default.aspx?cite=29B.25.120) has a low reporting threshold only after the activity qualifies as an independent expenditure supporting or opposing a candidate or measure.
+- [RCW 29B.25.120](https://app.leg.wa.gov/RCW/default.aspx?cite=29B.25.120) applies only after the activity qualifies as the specified independent expenditure. The `$100` amount printed in subsection (2) is not the current threshold: [WAC 390-05-400](https://app.leg.wa.gov/WAC/default.aspx?cite=390-05-400) adjusts it to **$1,000 effective 2026-01-01**. Classification, timing, medium, registration, attribution, sponsor identification, and other adjusted thresholds remain separate.
 
 Entity documents, funding, candidate contacts, requests, material involvement, fair-market value, distribution, press structure, insurance, and tax status are launch facts, not assumptions. [IRS guidance](https://www.irs.gov/charities-non-profits/other-non-profits/social-welfare-organizations) permits some political activity by a §501(c)(4) only when it is not the organization’s primary activity; there is no fixed safe percentage, and §527(f) tax may apply. A §501(c)(3) cannot intervene in candidate campaigns.
 
@@ -243,7 +252,9 @@ Replace the current gates as follows:
 | “Zero critical incidents” | Treat as a stop rule, report opportunity denominator and upper bound; with zero independent incidents, the approximate 95% upper bound is `3/N`. |
 | “Process-integrity score: 70/100” | Publish and validate a rubric or remove the number. |
 
-Orientation power calculations based on `d=.20/.25/.30` understate the plausible sample need. At two-sided `.05`, 80% power, independent equal groups, `d=.14` requires roughly 802 per arm and `d=.09` roughly 1,939 per arm—before clustering, attrition, multiplicity, or interactions.
+The supplemental counsel packet’s rule—observed comprehension of at least 90% but a one-sided 95% lower bound of only 85%—is **rejected**. If 90% is the safety threshold, the lower confidence bound, not just the point estimate, must be at least 90%.
+
+For the existing orientation table, exact standalone calculations at two-sided `.05` and 80% power are 788/506/352 total for two equal groups at `d=.20/.25/.30`, and 969/432/246 total for three balanced groups at `f=.10/.15/.20`. Those remain lower-bound orientation values. The newer evidence suggests smaller effects: under the same independent two-group assumptions, `d=.14` requires roughly 802 per arm and `d=.09` roughly 1,939 per arm—before clustering, attrition, multiplicity, co-primary safety outcomes, or interactions.
 
 ## 8. Cross-document and version-control rulings
 
@@ -255,14 +266,20 @@ The main canonical `operations/DGG_PILOT_CONTROL_PACKET.md` also remains operati
 
 **Holding:** choose one controlling architecture. For the present phase, the court adopts v1.1’s in-person, paper-only approach. Retarget/rebase the stack, remove remote instructions from current operational routes, and either deprecate or conform the old control packet before any candidate is called canonical.
 
-### 8.2 Archive and hierarchy
+### 8.2 Supplemental packet received during review
+
+PR #2’s later counsel-review packet is **admitted and substantially sustained for counsel review/Phase 0 only**. Its conspicuous nonuse banner, complete-standalone-statement rule, government-separation matrix, state-action caveats, professional question worksheet, and written-gate structure improve the project. They do not cure the base memorandum/protocol automatically. Its remaining defects include the incorporation pathway, the 90%-point-estimate/85%-lower-bound comprehension gate, the zero-incident inference, and any source copy that repeats an adjusted campaign amount as though the printed statute were current.
+
+PR #3’s independent authority audit and cross-project handoff are **admitted as supplemental research**. The court sustains its corrected WAC threshold, *Mohr/Yeakey* distinction, exact orientation sample totals, personality-rights nuance, witness-law caution, public-repository boundary, and update-packet protocol. Its separately gated 2026 fixed-record RON discussion does not alter this order’s current in-person-paper restriction. Because PR #3 is stacked on PR #2, its findings must be implemented by traceable edits; they do not silently rewrite the candidate or canonical files.
+
+### 8.3 Archive and hierarchy
 
 - Keep the archived pilot as superseded source material. It contains the obsolete public-refusal label, an incorrect *Lewis* reporter citation, remote preference, and overbroad interstate language.
 - Add an explicit status banner to every noncanonical memorandum, brief, protocol, and archived form.
 - Maintain one machine-readable manifest mapping each file to `canonical`, `candidate`, `supplement`, `archive`, or `withdrawn` status, plus the governing commit and supersession target.
 - Never place real participant CSR/PMR material, releases, identities, journal data, incident records, or privileged advice in the public repository.
 
-### 8.3 Zotero and Obsidian
+### 8.4 Zotero and Obsidian
 
 Before merge, `research/authorities.bib` must add the 2025 megastudy, both Jacquemet studies, missing federal/campaign/defamation authorities, Pennsylvania provisions, the three Title 29B provisions, FEC AO 2008-14, and IRS guidance.
 
@@ -293,15 +310,16 @@ The following are merge and launch gates, not suggestions.
 | D-09 | Reverse the RCW 10.88.250 extradition analysis and delete enforcement predictions. | Merge |
 | D-10 | Preserve false swearing as plausible/untested and first-degree perjury as colorable/unresolved; prohibit prosecution claims. | Permanent public-claim rule |
 | D-11 | Add the federal campaign/broadcast decision tree and fact-specific AO 2008-14 limitations. | Candidate-specific planning |
-| D-12 | Narrow Washington news/election exclusions and document all entity, funding, coordination, distribution, and tax facts. | Phase 3 |
+| D-12 | Narrow Washington news/election exclusions; apply WAC 390-05-400’s current adjusted amounts; and document all entity, funding, coordination, distribution, and tax facts. | Phase 3 |
 | D-13 | Label viewpoint neutrality as project policy, not a private constitutional duty. | Merge |
 | D-14 | Retain nonpublication of identified invitee statuses through Phase 2; subject exact later language to powered safety testing and media review. | Phase 3 |
 | D-15 | Add Zickfeld 2025 and adverse/transport evidence; remove any promise that science proves political truthfulness. | Merge |
-| D-16 | Replace observed-percentage/nonsignificance/zero-event gates with confidence-bound, noninferiority/equivalence, and denominator-based rules. | Study preregistration |
+| D-16 | Correct the orientation power totals and replace observed-percentage/nonsignificance/zero-event gates with confidence-bound, noninferiority/equivalence, and denominator-based rules. | Study preregistration |
 | D-17 | Separate audience and speaker estimands; randomize before answer generation and establish blinded ground-truth adjudication. | Study preregistration |
 | D-18 | Repair bibliography/legal-item metadata and complete a current commercial citator check. | Publication-ready memorandum |
 | D-19 | Repair DOCX rendering defects and add status banners plus a canonical-file manifest. | External distribution |
 | D-20 | Obtain written Washington criminal/notary, media/privacy/defamation, election/tax/entity, records-security, and independent methods reviews on the exact final artifacts and facts. | Any live/named pilot |
+| D-21 | Make no categorical witness-law reassurance or threat; treat benefits, threats, retaliation, referral bargaining, or testimony-influence concerns as stop/counsel events. | Permanent participant-safety rule |
 
 ## 10. Launch-gate order
 
@@ -349,10 +367,14 @@ Confidence is high on the text of cited statutes and regulations, high on the id
 - [RCW 9A.04.080 — limitations](https://app.leg.wa.gov/RCW/default.aspx?cite=9A.04.080)
 - [RCW 10.88.250 — nonfugitive surrender](https://app.leg.wa.gov/RCW/default.aspx?cite=10.88.250)
 - [RCW 9.73.030 — recording consent](https://app.leg.wa.gov/RCW/default.aspx?cite=9.73.030)
+- [RCW 63.60.050 — consent to personality-right use](https://app.leg.wa.gov/RCW/default.aspx?cite=63.60.050)
 - [RCW 63.60.070 — personality-rights exemptions](https://app.leg.wa.gov/RCW/default.aspx?cite=63.60.070)
 - [RCW 29B.10.160 — contribution and news conditions](https://app.leg.wa.gov/RCW/default.aspx?cite=29B.10.160)
 - [RCW 29B.10.220 — electioneering communication](https://app.leg.wa.gov/RCW/default.aspx?cite=29B.10.220)
 - [RCW 29B.25.120 — independent-expenditure reporting](https://app.leg.wa.gov/RCW/default.aspx?cite=29B.25.120)
+- [WAC 390-05-400 — current adjusted campaign-finance amounts](https://app.leg.wa.gov/WAC/default.aspx?cite=390-05-400)
+- [*Nissen v. Pierce County* — official-device/private-account public records](https://www.courts.wa.gov/opinions/pdf/908753.pdf)
+- [*Horvath v. DBIA Services* — functional-equivalency analysis](https://www.courts.wa.gov/opinions/pdf/1033397.pdf)
 
 ### Federal law and guidance
 
