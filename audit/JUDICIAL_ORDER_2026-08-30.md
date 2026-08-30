@@ -2,13 +2,13 @@
 
 **Entered:** 2026-08-30  
 **Status:** **REMANDED — CHANGES REQUIRED — NOT LAUNCH-CLEARED**  
-**Reviewed heads:** `main@3905b470`, PR #1 `@9b695f3e`, PR #2 `@795d97a1`
+**Reviewed heads:** `main@3905b470`, PR #1 `@9b695f3e`, PR #2 `@96c53884`, PR #3 `@08283fc1`
 
 ## Order
 
-Candidate v1.1 has a defensible core: a voluntary, in-person, Washington-only, tangible Canonical Sworn Record (CSR), with the ordinary interview and Public Media Record remaining unsworn. It cures the most serious earlier error—treating a whole oral “sworn block” as the oath object.
+Candidate v1.1 has a defensible core: a voluntary, in-person, Washington-only, tangible Canonical Sworn Record (CSR), with the ordinary interview and Public Media Record remaining unsworn. It cures the most serious earlier error—treating a whole oral “sworn block” as the oath object. The later counsel-review packet and independent paralegal audit are admitted as supplemental research and substantially improve the government-nexus, questioning, interstate, defamation, campaign-threshold, and power-calculation record.
 
-Neither live pull request may be treated as merge-ready or operational. The project remains in Phase 0 synthetic/tabletop testing. No named participant, publication, livestream, remote act, public refusal label, or criminal-enforcement claim is authorized.
+PRs #1 and #2 may not be treated as merge-ready or operational. PR #3 remains a supplemental stacked research draft and cannot cure their text by implication. The project remains in Phase 0 synthetic/tabletop testing. No named participant, publication, livestream, remote act, public refusal label, or criminal-enforcement claim is authorized.
 
 ## Findings sustained
 
@@ -19,6 +19,7 @@ Neither live pull request may be treated as merge-ready or operational. The proj
 5. Pre-freeze participant-controlled correction and a completely new act after execution are sound controls.
 6. A nonpublic, in-person, wet-ink feasibility phase is the present conservative design.
 7. Nonpublication of identified invitee/nonparticipant status through Phase 2 is required.
+8. PR #2’s counsel-review packet is suitable for counsel review and Phase 0 only; PR #3’s authority audit and handoff are substantially sustained as research, but neither silently amends the candidate or canonical files.
 
 ## Findings rejected or qualified
 
@@ -34,6 +35,11 @@ Neither live pull request may be treated as merge-ready or operational. The proj
 10. A disclaimer or audience test does not immunize a false or defamatory implication.
 11. Existing oath research does not prove political speakers will become truthful. The 2025 21-condition megastudy and adverse transport evidence must be included.
 12. Observed 90% comprehension, nonsignificance, and zero incidents do not prove safety.
+13. The `$100` amount printed in RCW 29B.25.120(2) is not the current reporting threshold; WAC 390-05-400 adjusts it to `$1,000` effective January 1, 2026.
+14. Washington does not recognize defamation by implication based only on the negative implication of entirely true statements; factual error, material omission creating a false impression, misleading editing, false light, and other-state law remain separate risks.
+15. Written personality-rights consent is prudent project policy, not a categorical statement of Washington law; forged/synthetic likeness and material alteration require separate review.
+16. The counsel packet’s observed-90%/lower-bound-85% comprehension rule is insufficient. If 90% is the gate, the one-sided 95% lower bound must be at least 90%.
+17. Do not categorically reassure or threaten participants about witness-tampering/intimidation law; any benefit, threat, retaliation, referral bargain, or testimony-influence concern is a stop/counsel event.
 
 ## Mandatory corrections before merge
 
@@ -42,8 +48,9 @@ Neither live pull request may be treated as merge-ready or operational. The proj
 - Correct the oath boundary, notary role, certificate, identity, journal, fee, travel, promotion, recording-consent, loss, privacy, and scan/hash language.
 - Correct the criminal-law citations, extradition direction, and unsupported enforcement forecasts.
 - Add a decision tree applying 11 C.F.R. §§ 100.26, 100.73, 100.132, 109.21, and 110.13; 47 C.F.R. § 73.1941; Washington Title 29B; entity/tax facts; paid amplification; candidate contact; and coordination.
+- Apply WAC 390-05-400’s current adjusted campaign amounts; do not repeat the statute’s printed `$100` as current subsection (2) law.
 - Add Zickfeld 2025 and the two Jacquemet studies; characterize accuracy-prompt and correction evidence as mechanisms distinct from oath efficacy.
-- Require a one-sided 95% lower bound at or above `.90` for notary-role comprehension; prespecified noninferiority/equivalence margins for harms and partisan interactions; and incident denominators plus upper bounds.
+- Require a one-sided 95% lower bound at or above `.90` for notary-role comprehension; prespecified noninferiority/equivalence margins for harms and partisan interactions; incident denominators plus upper bounds; and exact, reproducible orientation power totals.
 - Separate audience-framing and speaker-truth estimands; randomize before answer generation and use independent blinded ground-truth adjudication.
 - Repair legal-source metadata, add missing authorities, and complete a current commercial citator check.
 - Add one canonical-status manifest and conspicuous status/supersession banners to every candidate and archived packet.
@@ -52,6 +59,6 @@ Neither live pull request may be treated as merge-ready or operational. The proj
 
 Written approval must address the exact final CSR, oath/adoption, verification certificate, participant notice, consent/release, journal/privacy procedure, correction procedure, entity/funding/campaign facts, records-security plan, study design, and public copy. Required reviewers include Washington criminal/notary counsel, media/privacy/defamation counsel, election/tax/entity counsel, an independent notary, a records-security owner, and an independent methods reviewer.
 
-The governing detailed findings, sources, confidence limits, and twenty numbered directives are in [`audit/judicial-review-2026-08-30/report-source.md`](judicial-review-2026-08-30/report-source.md). The row-level support, adverse authority, and next-action docket is in [`audit/judicial-review-2026-08-30/GAP_MATRIX.md`](judicial-review-2026-08-30/GAP_MATRIX.md).
+The governing detailed findings, sources, confidence limits, and twenty-one numbered directives are in [`audit/judicial-review-2026-08-30/report-source.md`](judicial-review-2026-08-30/report-source.md). The row-level support, adverse authority, and next-action docket is in [`audit/judicial-review-2026-08-30/GAP_MATRIX.md`](judicial-review-2026-08-30/GAP_MATRIX.md).
 
 **So ordered:** preserve the candidate, cure the record, test the mechanism, and do not market legal certainty.
