@@ -1,0 +1,14 @@
+# Supplemental-file checksums
+
+These SHA-256 values cover the additive files introduced by pull request #1. They do not replace `audit/ARCHIVE_CHECKSUMS.md`, which governs the canonical package and supplied inputs.
+
+```text
+0c876a74e1e9ae8ab730d0a689eae4563df30afc4a572f944e4a0efad5e2fe2a  memorandum/PROJECT_ORIGIN_AND_DESIGN_RATIONALE_SUPPLEMENT.md
+e08df5c9ddef6f1b1e557b146649df5dae2eb8f60862a5e3d1809ad82ba2a023  research/BEHAVIORAL_EVIDENCE_AND_EVALUATION_PLAN.md
+88bc1812a23265e05ca1ebdff809dfe85ce934917d16a92c399648e2cd12fc93  research/ZOTERO_OBSIDIAN_INTEGRATION.md
+9540626de03f973c3cdb633ea8220168bf2b2a1aeab054bcbb849ba9013a1737  research/authorities.bib
+00e6e29d57162d7d990a7a0d0e05e07bd19a72eabb9e2384ccf880109f5f0a22  outreach/DGG_FIRST_READER_BRIEF.md
+876aaeb63c0fe220fd643344190928ca7c7b414e46a57b62da040749a95a73de  audit/CONTINUATION_GUIDE.md
+```
+
+Generated: 2026-08-30.
