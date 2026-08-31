@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "repository": "Sodelin/legal-case-for-opt-in-Washington-State-sworn-statements-program-for-political-truth-program",
+  "status_date": "2026-08-30",
+  "repository_posture": "remanded",
+  "status_authority": "audit/ARTIFACT_MANIFEST.json",
+  "human_status": "audit/CANONICAL_STATUS.md",
+  "source_baseline_commit": "3905b470c2ab239cf2aae563e1d7b3a1adb73dd3",
+  "candidate_branch": "codex/legal-readiness-cures",
+  "governing_commit_semantics": "A non-null value identifies a reviewed governing snapshot. Null means no reviewed governing commit has been assigned; it does not imply live-use approval or disapproval.",
+  "classifications": [
+    "canonical",
+    "candidate",
+    "supplement",
+    "archive",
+    "withdrawn"
+  ],
+  "artifacts": [
+    {
+      "path": ".gitattributes",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": ".github/workflows/repository-audit.yml",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "README.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "archive/input-drafts/washington_sworn_format_concept_paper_v3.md",
+      "classification": "archive",
+      "governing_commit": "3905b470c2ab239cf2aae563e1d7b3a1adb73dd3",
+      "live_use": false,
+      "superseded_by": "memorandum/DGG_WASHINGTON_SWORN_STATEMENT_MEMORANDUM.md",
+      "review_gates": []
+    },
+    {
+      "path": "archive/input-drafts/washington_sworn_format_pilot_packet_v2-1.docx",
+      "classification": "archive",
+      "governing_commit": "3905b470c2ab239cf2aae563e1d7b3a1adb73dd3",
+      "live_use": false,
+      "superseded_by": "operations/DGG_PILOT_CONTROL_PACKET.md",
+      "review_gates": []
+    },
+    {
+      "path": "archive/input-drafts/washington_sworn_format_pilot_packet_v2.md",
+      "classification": "archive",
+      "governing_commit": "3905b470c2ab239cf2aae563e1d7b3a1adb73dd3",
+      "live_use": false,
+      "superseded_by": "operations/DGG_PILOT_CONTROL_PACKET.md",
+      "review_gates": []
+    },
+    {
+      "path": "audit/ARCHIVE_CHECKSUMS.md",
+      "classification": "canonical",
+      "governing_commit": "3905b470c2ab239cf2aae563e1d7b3a1adb73dd3",
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": []
+    },
+    {
+      "path": "audit/ARTIFACT_MANIFEST.json",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "audit/CANONICAL_CHECKSUMS.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "audit/CANONICAL_STATUS.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "audit/DOCUMENT_REGISTER.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "audit/PROJECT_CONTROL.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "audit/PR_DEPENDENCY_DISPOSITION.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "COUNSEL_REVIEW", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "evidence/FACTS_AND_EVIDENCE_PACKET.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "FACTUAL_COMPLETION", "COUNSEL_REVIEW", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "memorandum/DGG_WASHINGTON_SWORN_STATEMENT_MEMORANDUM.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "PRIMARY_AUTHORITY_AND_CITATOR", "FACTUAL_COMPLETION", "COUNSEL_REVIEW", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "operations/DGG_PILOT_CONTROL_PACKET.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "COUNSEL_REVIEW", "METHODS_AND_COMPREHENSION", "LIVE_PROTOCOL_REVIEW", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "outreach/MESSAGE_AND_CLAIMS_TOOLKIT.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "COUNSEL_REVIEW", "METHODS_AND_COMPREHENSION", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "public/DGG_INFORMATION_PACKET.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "COUNSEL_REVIEW", "METHODS_AND_COMPREHENSION", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "public/DGG_TWO_PAGE_BRIEF.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "COUNSEL_REVIEW", "METHODS_AND_COMPREHENSION", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "research/AUTHORITY_REGISTER.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["PRIMARY_AUTHORITY_AND_CITATOR", "ZOTERO_RECONCILIATION", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "research/GAP_MATRIX.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "PRIMARY_AUTHORITY_AND_CITATOR", "COUNSEL_REVIEW", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "research/ZOTERO_HANDOFF.md",
+      "classification": "supplement",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["ZOTERO_RECONCILIATION", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "research/authorities-supplement-2026-08-30.bib",
+      "classification": "supplement",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["PRIMARY_AUTHORITY_AND_CITATOR", "ZOTERO_RECONCILIATION", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "research/authorities.bib",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["PRIMARY_AUTHORITY_AND_CITATOR", "ZOTERO_RECONCILIATION", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "research/report-source.md",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "PRIMARY_AUTHORITY_AND_CITATOR", "COUNSEL_REVIEW", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "verification/check_repository.py",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    }
+  ]
+}
