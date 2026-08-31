@@ -23,6 +23,16 @@ This repository contains legal research and Phase 0 controls for **Digital Groun
 - [`audit/DOCUMENT_REGISTER.md`](audit/DOCUMENT_REGISTER.md) and [`audit/ARTIFACT_MANIFEST.json`](audit/ARTIFACT_MANIFEST.json) — human-readable and machine-readable artifact status controls.
 - [`audit/ARCHIVE_CHECKSUMS.md`](audit/ARCHIVE_CHECKSUMS.md) — checksums for the supplied inputs.
 
+## Numbered PDF review package
+
+The recipient-facing package is available as three polished, AI-assisted PDF attachments:
+
+1. [`01_DGG_Concept_Overview.pdf`](output/pdf/01_DGG_Concept_Overview.pdf) — the accessible first read: proposal, fictional example, reasons to test, limits, FAQ, and reviewer request.
+2. [`02_DGG_Legal_and_Evidence_Memorandum.pdf`](output/pdf/02_DGG_Legal_and_Evidence_Memorandum.pdf) — the full Washington legal analysis, adverse authority, evidence/readiness appendix, and selected linked authorities.
+3. [`03_DGG_Implementation_and_Interview_Toolkit.pdf`](output/pdf/03_DGG_Implementation_and_Interview_Toolkit.pdf) — phased implementation controls, tabletop interview design, messaging tests, and two disabled synthetic worksheets.
+
+These PDFs are ready to forward for DGG, counsel, and reviewer discussion. They are not DGG-approved, counsel-approved, canonical, or launch-cleared. Attachment 3 is not a live interview script or notarial form; current Phase 0 remains fictional/tabletop-only.
+
 ## Research conclusion under remand
 
 Washington provides enough notarial infrastructure to study a fixed, voluntary sworn-record format. Present Phase 0 is limited to a pure fictional mock with no real signer, oath, or notarial act. A nonpublic, in-person, Washington-only, paper-based verification—with one tangible Canonical Sworn Record as the sole oath object—is only a possible future risk-control design after reviewed supersession and all gates. No DGG remote act is presently authorized. Washington nevertheless has a safeguarded record-based remote-notarization route during 2026; enacted law expands the framework beginning January 1, 2027, and active implementation rulemaking must be rechecked before any future remote design.
@@ -47,6 +57,7 @@ The project may be evaluated as a commitment, provenance, and audience-calibrati
 - `memorandum/` — legal research memorandum under remand and strategic decision brief.
 - `public/` — publicly visible candidate review drafts; not cleared for promotional release or recruitment.
 - `outreach/` — candidate message, claims, and comprehension-testing toolkit.
+- `output/pdf/` — numbered recipient-review attachments; no live-use or promotional approval follows from PDF formatting.
 - `evidence/` — candidate verified-fact, assumption, missing-evidence, and exhibit workpaper.
 - `research/` — source ledger, consequential-claim tracker, Zotero crosswalk, BibLaTeX packages, and read-only single-writer handoff.
 - `operations/` — blank Phase 0 controls and, later, only approved redacted or synthetic materials.

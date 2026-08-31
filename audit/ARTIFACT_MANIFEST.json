@@ -153,6 +153,30 @@
       "review_gates": ["REMAND_SUPERSESSION", "COUNSEL_REVIEW", "METHODS_AND_COMPREHENSION", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
     },
     {
+      "path": "output/pdf/01_DGG_Concept_Overview.pdf",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "COUNSEL_REVIEW", "METHODS_AND_COMPREHENSION", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "output/pdf/02_DGG_Legal_and_Evidence_Memorandum.pdf",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "PRIMARY_AUTHORITY_AND_CITATOR", "FACTUAL_COMPLETION", "COUNSEL_REVIEW", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
+      "path": "output/pdf/03_DGG_Implementation_and_Interview_Toolkit.pdf",
+      "classification": "candidate",
+      "governing_commit": null,
+      "live_use": false,
+      "superseded_by": null,
+      "review_gates": ["REMAND_SUPERSESSION", "COUNSEL_REVIEW", "METHODS_AND_COMPREHENSION", "LIVE_PROTOCOL_REVIEW", "REPOSITORY_VALIDATION", "INDEPENDENT_READBACK"]
+    },
+    {
       "path": "public/DGG_INFORMATION_PACKET.md",
       "classification": "candidate",
       "governing_commit": null,

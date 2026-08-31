@@ -452,6 +452,9 @@ def verify_document_register() -> list[str]:
         "memorandum/DGG_WASHINGTON_SWORN_STATEMENT_MEMORANDUM.md",
         "evidence/FACTS_AND_EVIDENCE_PACKET.md",
         "outreach/MESSAGE_AND_CLAIMS_TOOLKIT.md",
+        "output/pdf/01_DGG_Concept_Overview.pdf",
+        "output/pdf/02_DGG_Legal_and_Evidence_Memorandum.pdf",
+        "output/pdf/03_DGG_Implementation_and_Interview_Toolkit.pdf",
         "research/ZOTERO_HANDOFF.md",
     }
     if required - seen:
