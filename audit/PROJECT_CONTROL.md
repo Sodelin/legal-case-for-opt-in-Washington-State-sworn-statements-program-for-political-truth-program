@@ -1,75 +1,32 @@
-# Project control: Digital Ground Game voluntary sworn-statement memorandum
+# Project control — non-sworn development
 
-**Audit date:** 2026-08-30  
-**Audience:** Digital Ground Game and retained Washington/Pennsylvania counsel  
-**Repository status:** Public; do not place confidential, privileged, identifying, or unpublished participant information here.
+Updated 2026-09-05 under the [owner decision](OWNER_DECISION_2026-09-05.md). [Canonical status](CANONICAL_STATUS.md) controls precedence.
 
-## Mission
+## Mission and current work
 
-Produce a decision-ready legal memorandum and pilot packet evaluating a private, voluntary, opt-in format that separates narrowly defined sworn factual statements from ordinary unsworn political commentary. Washington is the operating-law anchor. Pennsylvania is a comparator, not a presumed substitute. Federal law supplies constitutional and interstate constraints, not a default federal perjury theory.
+Develop a voluntary bounded claim-and-evidence record with visible qualifications, separate editorial findings and linked corrections for a separate organization open across parties. No actual entity, appointment or partner agreement is inferred; DGG is not presumed to hold authority.
 
-## Nonnegotiable accuracy rules
+Allowed work: repository drafting, source verification, blank forms, fictional examples and recorded synthetic/tabletop exercises. Real participant data, consent/signatures, recording, public assessment, reuse licenses, contracts, spending and government participation remain outside this authorization.
 
-1. Do not state that notarization proves or certifies factual truth.
-2. Do not state that every false answer is perjury.
-3. Do not state that a refusal implies dishonesty.
-4. Do not state that Washington automatically has criminal jurisdiction over every out-of-state participant.
-5. Do not state that extradition is automatic, ordinary, or likely.
-6. Separate law effective on 2026-08-30 from law effective on 2027-01-01.
-7. Treat criminal exposure as fact-, element-, jurisdiction-, and discretion-dependent.
-8. Preserve a usable opt-out, question-specific decline, qualification, and correction path.
-9. Use **Digital Ground Game (DGG)** consistently; archival drafts using “DDG” remain unchanged.
-10. Require counsel review before any live pilot or public claim about criminal liability.
+Phase 0 can produce a reviewed design and documented synthetic tests. Exit requires the exact facts, appointments and written approvals in [review gates](../operations/NONSWORN_REVIEW_GATES.md), with independent methods/data review where applicable. A documentation merge does not meet these gates.
 
-## Current operating branches
+## Product rules
 
-### Branch A — available during 2026
+1. Record type is non-sworn. No oath, affirmation, jurat, notarial verification or penalty-of-perjury mechanism belongs in the schema.
+2. Participation means willingness to document a bounded claim and basis. No inferred confidence, truth certification, immunity, automatic liability or enforcement promise.
+3. Separate participant wording, basis and qualifications from editorial findings. Attribution/context approval is not an editorial veto.
+4. No named invitee, decline/no-response or comparison roster; no truth badge or honesty score.
+5. Preserve unknowns, qualification, pause, withdrawal and corrections. Threats, retaliation, testimony-influence benefits and referral bargaining are stop-and-review events.
+6. Viewpoint consistency is project policy. Backing requires actual organizational records.
+7. Preserve asset/version identity and correction links. Restricted preservation differs from public availability.
+8. No real participant, identity, credential, consent, media, incident, hold, privileged or nonpublic campaign material in GitHub.
 
-Use a defined signed electronic record and a Washington-compliant remote **verification on oath or affirmation**, with the notary physically in Washington and all current statutory and rule requirements satisfied. Do not assume that a free-form remote oral interview is independently covered merely because it is recorded.
+## Review responsibilities
 
-### Branch B — effective 2027-01-01
+The coordinating editor integrates and verifies the packet. Bounded contributors may draft or verify assigned files under current owner authorization. A separate reviewer reads the proposed changes. Agent role names do not appoint domain professionals.
 
-2026 Washington Laws chapter 21 (HB 2158) adds express procedures for remote administration of an oath or affirmation and for tangible records. This branch must be rechecked against any implementing rules and Department of Licensing guidance before use.
+Each review condition has a source, applicability, disposition, affected section, implementation commit and acknowledgment field. Inactive sworn conditions remain unresolved in the historical sworn packet and reopen if that feature returns.
 
-### Branch C — in person
+Primary law and published research are evidence; project documents are interpretations. A project review is not a court order. Receipt of a note is not implemented correction, legal clearance or study approval.
 
-Use a signed written or electronic statement personally presented to an authorized notary. This avoids the distinct remote-technology and identity-proofing layer but still requires a valid notarial act and a deliberately assumed oath.
-
-## Research authority hierarchy
-
-1. Statutes, session laws, regulations, official forms/guidance, and court opinions.
-2. Legislative bill reports and official histories.
-3. Treatises or law-review analysis for unresolved interpretation.
-4. Commercial case mirrors only when an official opinion is unavailable; verify reporter citation and holding independently.
-
-## Agent control and closeout
-
-Three bounded research lanes were authorized and completed:
-
-- **Washington criminal law, territorial jurisdiction, and case law — complete.** Result: false swearing is the strongest legally possible theory; first-degree perjury and remote jurisdiction remain colorable/unresolved; ordinary second-degree perjury and enforcement predictions are unsupported.
-- **Washington notary operations, remote procedure, recording, and privacy — complete.** Result: use a fixed signed electronic verification for remote work during 2026; recheck the express standalone remote-oath branch after 2027-01-01; keep the notarial archive and journal outside DGG's production/public repository.
-- **Federal constitutional/media risk and Pennsylvania comparison — complete.** Result: preserve private voluntary status and neutral labels; review broadcast/campaign triggers; treat Pennsylvania as a notarial-mechanics analogue rather than a parallel criminal-deterrence jurisdiction.
-
-Agents may not spawn additional agents, write the final memorandum, edit files, or push to GitHub. The audit director owns synthesis, consequential-claim verification, and repository writes. A lane stops when every assigned claim has primary support or an explicit unresolved-gap finding.
-
-No further research agent is authorized unless a counsel gate produces a new, specifically bounded question.
-
-## Canonical deliverables
-
-- `memorandum/DGG_WASHINGTON_SWORN_STATEMENT_MEMORANDUM.md` — audited research memorandum and decision brief.
-- `research/report-source.md` — source ledger, adverse authority, and unresolved questions.
-- `research/GAP_MATRIX.md` — consequential-claim status and next verification action.
-- `operations/DGG_PILOT_CONTROL_PACKET.md` — Phase 0 dry-run controls; not a live form or release.
-- `archive/input-drafts/` — immutable supplied inputs; not audited conclusions.
-
-## Publication gates
-
-A document may be labeled **audited** only after:
-
-- every consequential legal proposition maps to a primary authority;
-- reporter citations, quotations, dates, and effective dates are read back;
-- contrary authority and limiting language are included;
-- the pilot form and workflow are reviewed for accidental-trigger, consent, correction, privacy, and record-retention risks;
-- Washington counsel reviews the live form and public-facing criminal-law language;
-- Pennsylvania counsel reviews any Pennsylvania implementation; and
-- the pushed GitHub state is read back and compared with the intended files.
+Use the current README documents. Old sworn materials and PR #5 exports remain historical, nonoperative research. The earlier audit's completed lanes and agent limits described that earlier assignment; this authorized implementation has its own bounded review record and grants no external outreach or launch authority.

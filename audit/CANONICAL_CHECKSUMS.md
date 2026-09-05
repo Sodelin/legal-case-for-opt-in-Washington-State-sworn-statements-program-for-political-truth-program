@@ -1,16 +1,31 @@
-# Canonical deliverable checksum manifest
+# Current development source checksums
 
-**Freeze date:** 2026-08-30  
-**Purpose:** Byte-level comparison of the audited local files with the GitHub readback.
+Freeze: 2026-09-05. SHA-256 over exact UTF-8 file bytes. Scope/authority is in CANONICAL_STATUS.md.
 
-| Repository path | Bytes | SHA-256 |
-|---|---:|---|
-| `README.md` | 3,969 | `e05f0b0054ae0d99109591c5e0c3601062182eb41ebcf67517eca36205196022` |
-| `memorandum/DGG_WASHINGTON_SWORN_STATEMENT_MEMORANDUM.md` | 55,603 | `ffa8c75be0125cc4f8bc4767ed3d327438788ecc3669082e279e6c0915419f52` |
-| `research/report-source.md` | 26,043 | `52d560eb0f58ea476108a0f3b3899112b96084024aee8c816ee6a2752049804b` |
-| `research/GAP_MATRIX.md` | 10,601 | `0713bd873c9bbcc3eb1d9e18b16ac3dd2ef1d61ef04c324166968b7678f2ba16` |
-| `operations/DGG_PILOT_CONTROL_PACKET.md` | 14,880 | `eb1661cdf18397afbadacabc7cf9b621beaba08d642bfafe0dfd0af953b40e21` |
-| `audit/PROJECT_CONTROL.md` | 5,417 | `dffa1b69f130af394f2a4e85373e9fda44ef9219882489bf25db5cadd1e5201a` |
-| `audit/ARCHIVE_CHECKSUMS.md` | 824 | `54272f635d3acf12f9042d1ee056903c5d7c11b97a7218d4ad8f37bbacb49657` |
+Run `python research/verify_non_sworn_documents.py` from the repository root.
+This manifest excludes itself. Legacy binary preservation is verified using original Git blob identities.
 
-The supplied input drafts have their own checksums in `audit/ARCHIVE_CHECKSUMS.md`. This manifest does not claim legal approval; it records content integrity for the research freeze.
+```text
+b010933cb99d0dfb3d6fcf3819cba9ce2ebbe5841e99bfcc6e0eb45f58ba4aa6  README.md
+61150f241ac2ef7ed846054b1aa2560efcba14fb8019a4f74348b6f9387d8d9a  archive/pr5-2026-08-30/README.md
+aeda20b6bb3c259e7e1e8613df40da161c19765e819628bcdd93d2f05761982b  audit/CANONICAL_STATUS.md
+299b33d79a12805c342305b5f4de3dfb94265bddc3526e56a5a0fa1400a26a00  audit/DGG_CLAIM_RECORD_EXPLAINER_QA_2026-08-30.md
+66266d80f3de67d64b00213f1e7c573cf61a4218ad732c1b5527aa0764aced65  audit/NONSWORN_IMPLEMENTATION_QA.md
+f92ff0bc3b4f01146b47ab737a20d4eea4561aa1731055e7192518eb4b2fa2a4  audit/NONSWORN_REVIEW_CROSSWALK.csv
+fa7cde3011ac492c880b9528a6f1ef4d17c9df21822189b48ead36c3787b8c77  audit/OWNER_DECISION_2026-09-05.md
+81d2337142adfd5a60713b6c94ba6214e92825ae12eba6652965e882a410a1d7  audit/OWNER_DECISION_REGISTER.csv
+4c7dd3ac210df7b20f3a52832f3876e380012535c56a727b24006ccbe635357b  audit/PROJECT_CONTROL.md
+6fe71bb62e7068779de8233d511e045acc33c1d841f2d5c19fdb4cef9b5eed0a  audit/RESEARCH_HANDOFF_2026-09-05.md
+0eabe26212ed7955dda4f03ddfb8c130eac0a3689af5cad2cd5269ab9af8bedd  memorandum/DGG_WASHINGTON_SWORN_STATEMENT_MEMORANDUM.md
+531597ad9f8287c61b17fc2a8216f0d132ddd1f53a8c796b470cf735250b64d8  operations/DGG_PILOT_CONTROL_PACKET.md
+8f846f47e22df6312f0be178978c6eb9a962acf6a8519ee35421d403cc2a4f74  operations/NONSWORN_CLAIM_RECORD_PHASE0.md
+8d86a3a33bafef2bf53c5888028ee7b962b00557bb8330604a0d135f54e36f48  operations/NONSWORN_REVIEW_GATES.md
+e1dd15e7ec4b362b9bea46deba0fa66cfcd4d34383a44a9d0d966eda6f712d7b  operations/NONSWORN_SYNTHETIC_EXAMPLE.md
+87b75d77ae41fc2a17a57de92a3562f5a5605e058744cc8f1990da6c6549fbff  outreach/CLAIM_RECORD_REVIEW_BRIEF.md
+727f412f775e9d70c354ee716e8abd371d308d34bd0db9c54f4a0457abdf9fea  outreach/DGG_CLAIM_RECORD_HUMAN_EXPLAINER_v1.0.md
+6378d18bfed5810d58d1ee7a503e0b861d1ee54d9f05a8ca10ae5cc4e6f6c39c  outreach/DGG_SENDABLE_COVER_NOTE_v1.0.md
+2ff395a604cdb055ad548c9b60fe618f6aeb885632a3de6cfe7499aef535848f  research/GAP_MATRIX.md
+dd1d3ab8f5b95d9256f900cf2c542854830f1f0b00a0b25562f504695d9ee166  research/NONSWORN_EVIDENCE_AND_METHODS.md
+8675322f2c04a72be3f927a7923afdd0fa3b3dea913c58a46576bb54a76d3f92  research/report-source.md
+15a8be06a4ecc96ee56746207d55390036b8ac8e1ca074d07fe9fa0799cc8fea  research/verify_non_sworn_documents.py
+```
