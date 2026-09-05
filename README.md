@@ -8,6 +8,8 @@ This repository contains the audited legal research and Phase 0 controls for **D
 
 ## Read first
 
+- [`audit/RESEARCH_HANDOFF_2026-09-05.md`](audit/RESEARCH_HANDOFF_2026-09-05.md) — later cross-packet comparison, corrected source details, and unresolved version/scope differences; does not amend the canonical memorandum or clear live use.
+
 - [`memorandum/DGG_WASHINGTON_SWORN_STATEMENT_MEMORANDUM.md`](memorandum/DGG_WASHINGTON_SWORN_STATEMENT_MEMORANDUM.md) — canonical audited memorandum, executive decision brief, adversarial analysis, and recommendation.
 - [`research/report-source.md`](research/report-source.md) — primary-source ledger, adverse authority, effective-date controls, and unresolved questions.
 - [`research/GAP_MATRIX.md`](research/GAP_MATRIX.md) — consequential-claim audit with support level, contradiction, and next verification action.
