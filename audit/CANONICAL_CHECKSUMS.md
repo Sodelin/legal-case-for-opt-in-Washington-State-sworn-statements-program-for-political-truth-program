@@ -1,6 +1,6 @@
 # Current development source checksums
 
-Freeze: 2026-09-05. SHA-256 over exact UTF-8 file bytes. Scope/authority is in CANONICAL_STATUS.md.
+Freeze: 2026-09-05. SHA-256 over exact UTF-8/LF file bytes. Scope/authority is in CANONICAL_STATUS.md.
 
 Run `python research/verify_non_sworn_documents.py` from the repository root.
 This manifest excludes itself. Legacy binary preservation is verified using original Git blob identities.
@@ -10,10 +10,10 @@ b010933cb99d0dfb3d6fcf3819cba9ce2ebbe5841e99bfcc6e0eb45f58ba4aa6  README.md
 61150f241ac2ef7ed846054b1aa2560efcba14fb8019a4f74348b6f9387d8d9a  archive/pr5-2026-08-30/README.md
 aeda20b6bb3c259e7e1e8613df40da161c19765e819628bcdd93d2f05761982b  audit/CANONICAL_STATUS.md
 299b33d79a12805c342305b5f4de3dfb94265bddc3526e56a5a0fa1400a26a00  audit/DGG_CLAIM_RECORD_EXPLAINER_QA_2026-08-30.md
-66266d80f3de67d64b00213f1e7c573cf61a4218ad732c1b5527aa0764aced65  audit/NONSWORN_IMPLEMENTATION_QA.md
-f92ff0bc3b4f01146b47ab737a20d4eea4561aa1731055e7192518eb4b2fa2a4  audit/NONSWORN_REVIEW_CROSSWALK.csv
+22f1cf21752843b241341ad04cfe8833f8e8dabd293f031933a11903ce56bf44  audit/NONSWORN_IMPLEMENTATION_QA.md
+3d830e1a5c540e79fa48df15be7f431126d8e2eb08f478ee40446ca1e25a63c8  audit/NONSWORN_REVIEW_CROSSWALK.csv
 fa7cde3011ac492c880b9528a6f1ef4d17c9df21822189b48ead36c3787b8c77  audit/OWNER_DECISION_2026-09-05.md
-81d2337142adfd5a60713b6c94ba6214e92825ae12eba6652965e882a410a1d7  audit/OWNER_DECISION_REGISTER.csv
+41c118f6b9d0f20df2369875eb86b21c9a1e5d2adffbb2fe32f2baa5863667f7  audit/OWNER_DECISION_REGISTER.csv
 4c7dd3ac210df7b20f3a52832f3876e380012535c56a727b24006ccbe635357b  audit/PROJECT_CONTROL.md
 6fe71bb62e7068779de8233d511e045acc33c1d841f2d5c19fdb4cef9b5eed0a  audit/RESEARCH_HANDOFF_2026-09-05.md
 0eabe26212ed7955dda4f03ddfb8c130eac0a3689af5cad2cd5269ab9af8bedd  memorandum/DGG_WASHINGTON_SWORN_STATEMENT_MEMORANDUM.md

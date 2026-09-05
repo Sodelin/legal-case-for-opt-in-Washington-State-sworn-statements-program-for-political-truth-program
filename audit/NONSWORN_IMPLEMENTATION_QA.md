@@ -4,7 +4,7 @@ Date: 2026-09-05. Status: synthetic Phase 0 documentation; no live-use approval.
 
 ## Scope and provenance
 
-This implements the owner's selected non-sworn development path on PR #5. Intake heads are in the owner decision. The substantive content commit will be recorded after creation; the follow-up metadata commit references that earlier content commit to avoid a self-referential hash.
+This implements the owner's selected non-sworn development path on PR #5. Intake heads are in the owner decision. Substantive content commit: `60da070e4465d0ce9e7b5ab572c6975235b6a157`. The follow-up metadata commit records evidence against that earlier content commit, avoiding a self-referential hash. CSV metadata is normalized to UTF-8/LF and the current-source manifest regenerated for this follow-up.
 
 The development tree integrates main at `fc4ebbd9095c1e0160e31dbe0b1690fb7a5b31dc`, including the September handoff. No other PR is implicitly merged or its historical review conditions declared resolved.
 
@@ -18,8 +18,8 @@ The development tree integrates main at `fc4ebbd9095c1e0160e31dbe0b1690fb7a5b31d
 | Fixture integrity | Three exact UTF-8/no-final-newline SHA-256 payloads recomputed; changed byte changes digest |
 | Relative links | New/current document links checked against the proposed repository tree |
 | Information review | Current examples are explicitly fictional; no real participant record, private legal advice or operational credential added |
-| Independent project review | A separate review checked scope, authority, original conditions and false-closure risks; category definitions and current-authority gate were strengthened |
-| Remote readback | Pending at initial content commit; record exact commit and outcome in follow-up |
+| Independent project review | A separate review accepted the revised packet as synthetic Phase 0 documentation after checking scope, authority, exact original directives and false-closure risks; category definitions and the current-authority gate were strengthened |
+| Remote readback | All 23 text files matched the staged UTF-8 content at `60da070e4465d0ce9e7b5ab572c6975235b6a157`; five archived Git blobs matched their original identities; both legacy active binary paths were absent |
 
 Runtime/export enforcement and the listed tabletop acceptance sequences are not implemented software and have not been executed as a real workflow. Scenario expectations remain expectations. No person was recruited, no approval or license collected, no media recorded and no organization contacted by these exercises. The fixture checks do not establish human comprehension, efficacy or independent reviewer reliability.
 
