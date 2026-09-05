@@ -1,0 +1,775 @@
+[
+  {
+    "id": "L1",
+    "type": "legislation",
+    "title": "Chapter 42.45 RCW: Revised Uniform Law on Notarial Acts",
+    "URL": "https://app.leg.wa.gov/RCW/default.aspx?cite=42.45&full=true",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L1 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "L2",
+    "type": "legislation",
+    "title": "RCW 42.45.280: Electronic records notary public",
+    "URL": "https://app.leg.wa.gov/rcw/default.aspx?cite=42.45.280",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L2 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "L3",
+    "type": "legislation",
+    "title": "RCW 9A.72.040: False swearing",
+    "URL": "https://app.leg.wa.gov/rcw/default.aspx?cite=9A.72.040",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L3 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "L3b",
+    "type": "legislation",
+    "title": "RCW 9A.72.080: Statement of what one does not know to be true",
+    "URL": "https://app.leg.wa.gov/rcw/default.aspx?cite=9A.72.080",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L3 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "L4",
+    "type": "legislation",
+    "title": "Chapter 9A.72 RCW: Perjury and interference with official proceedings",
+    "URL": "https://app.leg.wa.gov/RCW/default.aspx?cite=9A.72&full=true",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L4 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "L5",
+    "type": "legislation",
+    "title": "57 Pa.C.S. chapter 3, section 311: Notarial act in another state",
+    "URL": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/57/00.003..HTM",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L5 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "L6",
+    "type": "legislation",
+    "title": "RCW 9A.04.030: State criminal jurisdiction",
+    "URL": "https://app.leg.wa.gov/rcw/default.aspx?cite=9A.04.030",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L6 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "L7",
+    "type": "legislation",
+    "title": "18 Pa.C.S. chapter 1, section 102: Territorial applicability",
+    "URL": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/18/00.001..HTM",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L7 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "L8",
+    "type": "legislation",
+    "title": "18 Pa.C.S. chapter 49, section 4903: False swearing",
+    "URL": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/18/00.049..HTM",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L8 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "L9",
+    "type": "legal_case",
+    "title": "Rickert v. State, Public Disclosure Commission",
+    "URL": "https://www.courtlistener.com/opinion/2582429/rickert-v-state-public-disclosure-comn/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L9 in report.md. Targeted verification; proposition-specific limits are stated in the report.",
+    "authority": "Washington Supreme Court",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "container-title": "Washington Reports, Second Series",
+    "volume": "161",
+    "page": "843"
+  },
+  {
+    "id": "L9b",
+    "type": "legislation",
+    "title": "RCW 29B.30.070",
+    "URL": "https://app.leg.wa.gov/RCW/default.aspx?cite=29B.30.070",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L9 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "L10",
+    "type": "legal_case",
+    "title": "United States v. Alvarez",
+    "URL": "https://www.law.cornell.edu/supremecourt/text/11-210",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L10 in report.md. Targeted verification; proposition-specific limits are stated in the report.",
+    "authority": "Supreme Court of the United States",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          6,
+          28
+        ]
+      ]
+    },
+    "container-title": "United States Reports",
+    "volume": "567",
+    "page": "709"
+  },
+  {
+    "id": "L11",
+    "type": "legislation",
+    "title": "Chapter 5.50 RCW: Uniform Unsworn Declarations Act",
+    "URL": "https://app.leg.wa.gov/RCW/default.aspx?cite=5.50&full=true",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L11 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "L12",
+    "type": "legislation",
+    "title": "RCW 29B.30.070: Political advertising or electioneering communication, libel or defamation per se",
+    "URL": "https://app.leg.wa.gov/RCW/default.aspx?cite=29B.30.070",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L12 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "L13",
+    "type": "legislation",
+    "title": "WAC 308-30-330: Retention of audiovisual recordings and repositories",
+    "URL": "https://app.leg.wa.gov/wac/default.aspx?cite=308-30-330",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group L13 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "P1",
+    "type": "legislation",
+    "title": "Chapter 390-32 WAC: Fair Campaign Practices Code",
+    "URL": "https://app.leg.wa.gov/WAC/default.aspx?cite=390-32&full=true",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group P1 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "P2",
+    "type": "webpage",
+    "title": "Fair Campaign Practices Project",
+    "URL": "https://lwvclarkcounty.org/content.aspx?club_id=160612&module_id=514897&page_id=22",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group P2 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "P3",
+    "type": "webpage",
+    "title": "Inviting a candidate to speak: 501(c)(3) political-campaign-intervention FAQ",
+    "URL": "https://www.irs.gov/charities-non-profits/charitable-organizations/frequently-asked-questions-about-the-ban-on-political-campaign-intervention-by-501c3-organizations-inviting-a-candidate-to-speak",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group P3 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "P4",
+    "type": "webpage",
+    "title": "Public debates",
+    "URL": "https://www.fec.gov/help-candidates-and-committees/making-disbursements-ssf-or-connected-organization/public-debates/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Source group P4 in report.md. Targeted verification; proposition-specific limits are stated in the report."
+  },
+  {
+    "id": "E1-Zickfeld-2024-meta",
+    "type": "article-journal",
+    "title": "Committed (dis)honesty: A systematic meta-analytic review of the divergent effects of social commitment to individuals or honesty oaths on dishonest behavior",
+    "author": [
+      {
+        "given": "Janis H.",
+        "family": "Zickfeld"
+      },
+      {
+        "given": "Simon T. S.",
+        "family": "Karg"
+      },
+      {
+        "given": "Sebastian S.",
+        "family": "Engen"
+      },
+      {
+        "given": "Ana Sofía",
+        "family": "Ramirez Gonzalez"
+      },
+      {
+        "given": "John",
+        "family": "Michael"
+      },
+      {
+        "given": "Panagiotis",
+        "family": "Mitkidis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "container-title": "Psychological Bulletin",
+    "volume": "150",
+    "issue": "5",
+    "page": "586-620",
+    "publisher": "American Psychological Association",
+    "DOI": "10.1037/bul0000429",
+    "URL": "https://doi.org/10.1037/bul0000429",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Published online 2024-04-15. Bibliographic metadata and abstract verified against https://pubmed.ncbi.nlm.nih.gov/38619478/ and the Aarhus University institutional record. Full review N=91,683 covers all social commitment types, not only honesty oaths."
+  },
+  {
+    "id": "E2-Zickfeld-2025-megastudy",
+    "type": "article-journal",
+    "title": "Effectiveness of ex ante honesty oaths in reducing dishonesty depends on content",
+    "author": [
+      {
+        "given": "Janis H.",
+        "family": "Zickfeld"
+      },
+      {
+        "given": "Karolina A.",
+        "family": "Ścigała"
+      },
+      {
+        "given": "Christian T.",
+        "family": "Elbæk"
+      },
+      {
+        "given": "John",
+        "family": "Michael"
+      },
+      {
+        "given": "Mathilde H.",
+        "family": "Tønnesen"
+      },
+      {
+        "given": "Gabriel",
+        "family": "Levy"
+      },
+      {
+        "given": "Shahar",
+        "family": "Ayal"
+      },
+      {
+        "given": "Isabel",
+        "family": "Thielmann"
+      },
+      {
+        "given": "Laila",
+        "family": "Nockur"
+      },
+      {
+        "given": "Eyal",
+        "family": "Peer"
+      },
+      {
+        "given": "Valerio",
+        "family": "Capraro"
+      },
+      {
+        "given": "Rachel",
+        "family": "Barkan"
+      },
+      {
+        "given": "Simen",
+        "family": "Bø"
+      },
+      {
+        "given": "Štěpán",
+        "family": "Bahník"
+      },
+      {
+        "given": "Daniele",
+        "family": "Nosenzo"
+      },
+      {
+        "given": "Ralph",
+        "family": "Hertwig"
+      },
+      {
+        "given": "Nina",
+        "family": "Mazar"
+      },
+      {
+        "given": "Alexa",
+        "family": "Weiss"
+      },
+      {
+        "given": "Ann-Kathrin",
+        "family": "Koessler"
+      },
+      {
+        "given": "Ronit",
+        "family": "Montal-Rosenberg"
+      },
+      {
+        "given": "Sebastian",
+        "family": "Hafenbrädl"
+      },
+      {
+        "given": "Yngwie Asbjørn",
+        "family": "Nielsen"
+      },
+      {
+        "given": "Patricia",
+        "family": "Kanngiesser"
+      },
+      {
+        "given": "Simon",
+        "family": "Schindler"
+      },
+      {
+        "given": "Philipp",
+        "family": "Gerlach"
+      },
+      {
+        "given": "Nils",
+        "family": "Köbis"
+      },
+      {
+        "given": "Nicolas",
+        "family": "Jacquemet"
+      },
+      {
+        "given": "Marek",
+        "family": "Vranka"
+      },
+      {
+        "given": "Dan",
+        "family": "Ariely"
+      },
+      {
+        "given": "Jareef Bin",
+        "family": "Martuza"
+      },
+      {
+        "given": "Yuval",
+        "family": "Feldman"
+      },
+      {
+        "given": "Michał",
+        "family": "Białek"
+      },
+      {
+        "given": "Jan K.",
+        "family": "Woike"
+      },
+      {
+        "given": "Zoe",
+        "family": "Rahwan"
+      },
+      {
+        "given": "Alicia",
+        "family": "Seidl"
+      },
+      {
+        "given": "Eileen",
+        "family": "Chou"
+      },
+      {
+        "given": "Agne",
+        "family": "Kajackaite"
+      },
+      {
+        "given": "Simeon",
+        "family": "Schudy"
+      },
+      {
+        "given": "Ulrich",
+        "family": "Glogowsky"
+      },
+      {
+        "given": "Anna Z.",
+        "family": "Czarna"
+      },
+      {
+        "given": "Stefan",
+        "family": "Pfattheicher"
+      },
+      {
+        "given": "Panagiotis",
+        "family": "Mitkidis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1
+        ]
+      ]
+    },
+    "container-title": "Nature Human Behaviour",
+    "volume": "9",
+    "issue": "1",
+    "page": "169-187",
+    "publisher": "Nature Publishing Group",
+    "DOI": "10.1038/s41562-024-02009-0",
+    "URL": "https://doi.org/10.1038/s41562-024-02009-0",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Published online 2024-10-21; final journal issue January 2025. Full 42-author list verified against https://pubmed.ncbi.nlm.nih.gov/39433937/ and author-institution records. Publisher field follows Hebrew University institutional metadata. Full text inspected at https://www.runi.ac.il/yedion/facultypublications/getfile.ashx?fileType=3&publicationId=8196&username=s.ayal"
+  },
+  {
+    "id": "E3-GAO-2012-evaluations",
+    "type": "report",
+    "title": "Designing Evaluations: 2012 Revision",
+    "author": [
+      {
+        "literal": "United States Government Accountability Office"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          1,
+          31
+        ]
+      ]
+    },
+    "number": "GAO-12-208G",
+    "publisher": "United States Government Accountability Office",
+    "URL": "https://www.gao.gov/products/gao-12-208g",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Publicly released 2012-02-01. Product-page title adds '(Supersedes PEMD-10.1.4)'. Full report: https://www.gao.gov/assets/gao-12-208g.pdf. Methodological guidance; not an evaluation of the proposed Washington format."
+  },
+  {
+    "id": "E4-PNAS-2021-Shu-retraction",
+    "type": "article-journal",
+    "title": "Retraction for Shu et al., Signing at the beginning makes ethics salient and decreases dishonest self-reports in comparison to signing at the end",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          21
+        ]
+      ]
+    },
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "volume": "118",
+    "issue": "38",
+    "page": "e2115397118",
+    "publisher": "National Academy of Sciences",
+    "DOI": "10.1073/pnas.2115397118",
+    "URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8463784/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Retraction notice for original article DOI 10.1073/pnas.1209746109, first published 2012-08-27. Notice published online 2021-09-13; issue date 2021-09-21. Notice body is signed May R. Berenbaum, Editor-in-Chief; author field omitted because no byline is displayed in the inspected PMC record."
+  },
+  {
+    "id": "E5-PNAS-2026-Kristal-correction",
+    "type": "article-journal",
+    "title": "Correction for Kristal et al., Signing at the beginning versus at the end does not decrease dishonesty",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          7
+        ]
+      ]
+    },
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "volume": "123",
+    "issue": "27",
+    "page": "e2610441123",
+    "DOI": "10.1073/pnas.2610441123",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42372171/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Published online 2026-06-29. No authors listed in PubMed. Erratum for DOI 10.1073/pnas.1911695117 (Kristal et al., 2020). Bibliographic existence verified; correction full text not retrieved. No interpretation of its substantive effects is made."
+  },
+  {
+    "id": "R1",
+    "type": "webpage",
+    "title": "Washington sworn-statement project: main",
+    "URL": "https://github.com/Sodelin/legal-case-for-opt-in-Washington-State-sworn-statements-program-for-political-truth-program/tree/3905b470c2ab239cf2aae563e1d7b3a1adb73dd3",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Checked head 3905b470c2ab239cf2aae563e1d7b3a1adb73dd3. Document/repository status is separate from legal clearance."
+  },
+  {
+    "id": "R2",
+    "type": "webpage",
+    "title": "Washington sworn-statement project: PR 1",
+    "URL": "https://github.com/Sodelin/legal-case-for-opt-in-Washington-State-sworn-statements-program-for-political-truth-program/pull/1",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Checked head 9b695f3e45e13d60767db71ed91cf4cc668c9d09. Document/repository status is separate from legal clearance."
+  },
+  {
+    "id": "R3",
+    "type": "webpage",
+    "title": "Washington sworn-statement project: PR 2",
+    "URL": "https://github.com/Sodelin/legal-case-for-opt-in-Washington-State-sworn-statements-program-for-political-truth-program/pull/2",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Checked head 96c5388421ed6e221c8520878458feba96e14aac. Document/repository status is separate from legal clearance."
+  },
+  {
+    "id": "R4",
+    "type": "webpage",
+    "title": "Washington sworn-statement project: PR 3",
+    "URL": "https://github.com/Sodelin/legal-case-for-opt-in-Washington-State-sworn-statements-program-for-political-truth-program/pull/3",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Checked head 08283fc190f23d69406b5f9cc810fbbc00d8b068. Document/repository status is separate from legal clearance."
+  },
+  {
+    "id": "R5",
+    "type": "webpage",
+    "title": "Washington sworn-statement project: PR 4",
+    "URL": "https://github.com/Sodelin/legal-case-for-opt-in-Washington-State-sworn-statements-program-for-political-truth-program/pull/4",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Checked head b99f7df6712a063e824922ede87b2c7ecca726f0. Document/repository status is separate from legal clearance."
+  },
+  {
+    "id": "R6",
+    "type": "webpage",
+    "title": "Washington sworn-statement project: PR 5",
+    "URL": "https://github.com/Sodelin/legal-case-for-opt-in-Washington-State-sworn-statements-program-for-political-truth-program/pull/5",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Checked head 73a036076096c0874478ccfdffdc5e605378765a. Document/repository status is separate from legal clearance."
+  }
+]
