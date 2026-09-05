@@ -1,3 +1,7 @@
+> **HISTORICAL SWORN-TRACK RESEARCH — NOT OPERATIVE FOR THE SELECTED PRODUCT.**
+>
+> The [owner decision](../audit/OWNER_DECISION_2026-09-05.md) selects non-sworn synthetic Phase 0 development. This document's instructions and former canonical labels describe an earlier scope. Unresolved review conditions remain; this banner does not correct or clear its legal propositions. Use the [current hierarchy](../audit/CANONICAL_STATUS.md). Original content below is retained as research history.
+
 # Digital Ground Game voluntary sworn-statement pilot
 ## Audited research memorandum and guarded implementation recommendation
 
